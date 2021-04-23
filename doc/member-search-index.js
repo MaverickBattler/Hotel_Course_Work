@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.java.lab2","c":"Lab2Test","l":"Lab2Test()","url":"%3Cinit%3E()"},{"p":"edu.java.lab2","c":"Lab2Test","l":"testcheckIfAnythingSelected()"},{"p":"edu.java.lab2","c":"Lab2Test","l":"testcheckIfSearchIsNotEmpty()"},{"p":"edu.java.lab2","c":"Lab2Test","l":"testFieldsNotEntered()"}]

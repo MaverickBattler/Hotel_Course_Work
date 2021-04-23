@@ -1,0 +1,187 @@
+2020-11-30 21:51:59 INFO  Lab2:652 - Program started
+2020-11-30 21:51:59 INFO  Lab2:655 - Main window has been built
+2020-11-30 21:53:58 INFO  Lab2:346 - Deleting rows from rooms table
+2020-11-30 21:53:58 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:54:06 INFO  Lab2:346 - Deleting rows from rooms table
+2020-11-30 21:54:06 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:54:24 INFO  Lab2:242 - Search button pressed
+2020-11-30 21:54:24 INFO  Lab2:247 - Search by workers table
+2020-11-30 21:54:24 INFO  Lab2:90 - Search field is not empty, checked.
+2020-11-30 21:54:37 INFO  Lab2:242 - Search button pressed
+2020-11-30 21:54:37 INFO  Lab2:247 - Search by workers table
+2020-11-30 21:54:37 WARN  Lab2:85 - Search field is empty, checked.
+2020-11-30 21:54:37 WARN  Lab2:277 - Search field is empty: 
+edu.java.lab2.Lab2$NoSearchStringEx: Вы не ввели информацию для поиска
+	at edu.java.lab2.Lab2$1.actionPerformed(Lab2.java:269)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6636)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6401)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5012)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4844)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4919)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4548)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4489)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2764)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4844)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-11-30 21:54:43 INFO  Lab2:289 - Search results discarded
+2020-11-30 21:55:02 INFO  Lab2:242 - Search button pressed
+2020-11-30 21:55:02 INFO  Lab2:259 - Search by clients table
+2020-11-30 21:55:02 INFO  Lab2:90 - Search field is not empty, checked.
+2020-11-30 21:55:04 INFO  Lab2:289 - Search results discarded
+2020-11-30 21:55:40 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:55:48 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:55:48 WARN  Lab2:394 - Not all fields were entered!
+2020-11-30 21:55:48 DEBUG Lab2:395 - edu.java.lab2.FieldsNotEntered: Вы ввели не все поля
+2020-11-30 21:56:01 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:04 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:04 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:08 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:08 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:08 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:08 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:09 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:09 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:17 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:56:27 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:29 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:56:32 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:33 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:56:35 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:37 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:56:39 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:40 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 21:56:43 INFO  Lab2:382 - Adding the row to workers table
+2020-11-30 21:56:48 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:48 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:49 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:49 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:50 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:50 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 21:56:50 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 21:56:50 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:00:39 INFO  Lab2:651 - Program started
+2020-11-30 22:00:39 INFO  Lab2:654 - Main window has been built
+2020-11-30 22:00:48 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:00:48 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:00:50 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:00:53 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:00:54 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:00:56 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:00:59 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:00:59 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:01:00 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:01:04 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:01:06 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:01:08 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:01:09 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:01:12 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:01:14 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:01:14 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:01:17 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:01:17 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:01:21 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:01:21 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:02:44 INFO  Lab2:651 - Program started
+2020-11-30 22:02:44 INFO  Lab2:654 - Main window has been built
+2020-11-30 22:03:43 INFO  Lab2:651 - Program started
+2020-11-30 22:03:44 INFO  Lab2:654 - Main window has been built
+2020-11-30 22:06:35 INFO  Lab2:242 - Search button pressed
+2020-11-30 22:06:35 INFO  Lab2:253 - Search by rooms table
+2020-11-30 22:06:35 INFO  Lab2:90 - Search field is not empty, checked.
+2020-11-30 22:06:43 INFO  Lab2:289 - Search results discarded
+2020-11-30 22:07:10 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:07:10 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:07:15 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:07:23 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:07:45 INFO  Lab2:641 - Program info output
+2020-11-30 22:08:01 INFO  Lab2:242 - Search button pressed
+2020-11-30 22:08:01 INFO  Lab2:247 - Search by workers table
+2020-11-30 22:08:01 WARN  Lab2:85 - Search field is empty, checked.
+2020-11-30 22:08:01 WARN  Lab2:277 - Search field is empty: 
+edu.java.lab2.Lab2$NoSearchStringEx: Вы не ввели информацию для поиска
+	at edu.java.lab2.Lab2$1.actionPerformed(Lab2.java:269)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6636)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6401)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5012)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4844)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4919)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4548)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4489)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2764)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4844)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:391)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-11-30 22:08:05 INFO  Lab2:316 - Adding a row to workers table
+2020-11-30 22:08:10 INFO  Lab2:381 - Adding the row to workers table
+2020-11-30 22:08:10 WARN  Lab2:393 - Not all fields were entered!
+2020-11-30 22:08:10 DEBUG Lab2:394 - edu.java.lab2.FieldsNotEntered: Вы ввели не все поля
+2020-11-30 22:08:20 INFO  Lab2:341 - Deleting rows from workers table
+2020-11-30 22:08:20 WARN  Lab2:104 - No rows selected,checked
+2020-11-30 22:08:20 WARN  Lab2:368 - No rows selected to delete!
+2020-11-30 22:08:20 DEBUG Lab2:369 - edu.java.lab2.Lab2$NoRowsSelectedEx: Вы не выделили строки таблицы, которые хотите удалить
+2020-11-30 22:08:24 INFO  Lab2:463 - Saving workers data...
+2020-11-30 22:08:59 INFO  Lab2:488 - Saving workers data to XML...
+2020-11-30 22:09:41 INFO  Lab2:553 - Removing all tables' data
+2020-11-30 22:09:49 INFO  Lab2:576 - Loading workers data...
+2020-11-30 22:09:58 INFO  Lab2:576 - Loading workers data...
+2020-11-30 22:10:16 INFO  Lab2:522 - Loading workers data from XML...
+2020-11-30 22:10:39 INFO  Lab2:610 - Saving to PDF
+2020-11-30 22:11:05 INFO  Lab2:621 - Saving to HTML
+2020-11-30 22:11:56 INFO  Lab2:629 - Starting multithreading event
+2020-11-30 22:12:50 WARN  Lab2:85 - Search field is empty, checked.
+2020-11-30 22:12:50 INFO  Lab2:90 - Search field is not empty, checked.
+2020-11-30 22:12:50 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:12:50 WARN  Lab2:104 - No rows selected,checked
+2020-11-30 22:13:10 INFO  Lab2:90 - Search field is not empty, checked.
+2020-11-30 22:13:10 INFO  Lab2:109 - Rows selected,checked.
+2020-11-30 22:13:10 WARN  Lab2:104 - No rows selected,checked
+2020-11-30 22:14:11 INFO  Lab2:599 - Exiting program
